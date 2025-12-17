@@ -454,7 +454,7 @@ This project is part of CIS553 coursework at UMD.
 
 **Project Lead**: Broderick Higby
 **Course**: CIS553 Fall 2025
-**Institution**: University of Maryland
+**Institution**: University of Michigan Dearborn
 
 ---
 
